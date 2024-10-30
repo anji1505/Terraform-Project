@@ -1,8 +1,8 @@
 provider "aws" {
   profile    = "default"
   region     = "ap-south-1"
-  access_key = "AKIA2MNVMFO5YFL4765I"
-  secret_key = "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"
+  access_key = "AWS_ACCESS_KEY"
+  secret_key = "AWS_SECRET_KEY"
 }
 
 # Create the key pair
